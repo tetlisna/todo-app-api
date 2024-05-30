@@ -43,12 +43,50 @@ This app is built with modern React and TypeScript, ensuring a robust and type-s
 - **Bulma**: A modern CSS framework based on Flexbox.
 - **Cypress**: A testing framework for end-to-end testing.
 
-### Scripts
+## 🚀 Getting Started
 
-```bash
-npm start
+### Demo
 
-### Testing
+Check out the live demo here: [DEMO LINK](https://tetlisna.github.io/landing-page-met/)
+
+### Design Mockup
+
+View the design mockup on Figma: [MET Landing Page Design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Ensure you have Node.js installed. Recommended version: `>=14.0.0`.
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/tetlisna/todo-app-api.git
+
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd todo-app
+
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+
+4. Start the project:
+
+   ```bash
+   npm start
+
+
+## 🚀 Thank you for exploring the Todo App! 🚀
+
+
 To run tests, you can use the following command:
 
 ```bash
