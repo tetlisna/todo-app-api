@@ -84,10 +84,10 @@ View the design mockup on Figma: [MET Landing Page Design](https://www.figma.com
    npm start
 
 
+5. To run tests, you can use the following command:
+
+   ```bash
+   npm test
+
+
 ## 🚀 Thank you for exploring the Todo App! 🚀
-
-
-To run tests, you can use the following command:
-
-```bash
-npm test
