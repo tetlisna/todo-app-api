@@ -4,7 +4,7 @@
 
 Welcome to the **React Todo App with API** – an efficient, user-friendly, and highly functional task management application designed to simplify your daily task tracking. This app not only lets you add and delete todos but also provides the ability to toggle their completion status and rename them seamlessly, enhancing your productivity and task management experience.
 
-[Demo Link](https://tetlisna.github.io/react_todo-app-with-api/)
+[Demo Link](https://tetlisna.github.io/todo-app-api/)
 
 ## Why You'll Love It
 
@@ -69,7 +69,7 @@ View the design mockup on Figma: [MET Landing Page Design](https://www.figma.com
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-app
+   cd todo-app-api
 
 
 3. Install the dependencies:
