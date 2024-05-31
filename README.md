@@ -45,15 +45,6 @@ This app is built with modern React and TypeScript, ensuring a robust and type-s
 
 ## 🚀 Getting Started
 
-### Demo
-
-Check out the live demo here: [DEMO LINK](https://tetlisna.github.io/landing-page-met/)
-
-### Design Mockup
-
-View the design mockup on Figma: [MET Landing Page Design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-
-
 ## 🚀 Quick Start
 
 ### Prerequisites
